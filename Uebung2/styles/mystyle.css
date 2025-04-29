@@ -17,16 +17,17 @@ nav a {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 nav {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    
 }
 nav a:hover {
     background-color: grey;
 }
 
 section {
+    background-color: white;
     margin-left: 11%;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 table {
